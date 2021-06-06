@@ -1,0 +1,28 @@
+/*Styles for Main*/
+.main_page{
+    min-height: 800px;
+    position: relative;
+    background: transparent url(img/tiulpan-lepestki-makro-6.jpg) center center no-repeat;
+    background-size: cover;
+}
+
+.main_page img.mini_logo{
+    margin-top: 80px;
+    margin-left: 80px;
+}
+
+.main_page .promo{
+    bottom: 40px;
+    right: 40px;
+    height: 131px;
+    width: 536px;
+    position: absolute;
+
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 75px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #F98C96;
+}
