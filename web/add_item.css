@@ -1,0 +1,35 @@
+/*Styles for Main*/
+
+.main_page {
+    min-height: 800px;
+    position: relative;
+    background: transparent url(img/look.com.ua-23731.jpg) center center no-repeat;
+    background-size: cover;
+}
+
+.main_page .container {
+    max-width: 500px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    padding: 20%;
+    margin: auto;
+}
+
+.main_page .container .name {
+    text-align: left;
+    margin: 20px;
+}
+
+.main_page .container .value {
+    text-align: left;
+    margin: 20px;
+}
+
+.main_page .container button {
+    stroke: beige;
+    background-color: #8EC13F;
+    color: beige;
+    text-align: mixed;
+    width: mixed;
+}

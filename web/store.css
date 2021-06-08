@@ -1,0 +1,19 @@
+/*Styles for Main*/
+.main_page{
+    min-height: 800px;
+    position: relative;
+    background: transparent url(img/tiulpany-butony-rozovyi-nezhnost.jpg) center center no-repeat;
+    background-size: cover;
+}
+
+.main_page .container{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    padding: 10%;
+}
+
+.main_page .container img{
+    margin: 30px;
+}
